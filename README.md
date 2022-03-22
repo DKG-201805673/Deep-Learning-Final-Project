@@ -8,7 +8,7 @@ OCR for information extraction for semi-structured scanned documents
 
 **2. What is the problem that you want to solve?** 
 
-Add your answer here (a few sentences).
+Our documents digitisation proposes a way that reduces storage costs, easing the process of administrative paperwork management, more environmentally friendly (i.e. reducing paper and ink consumption), saves time in retrieval, can be shared on a global scale, can be more efficiently tracked for compliance, keep important information into a more secured infrastructure. 
 
 **3. What deep learning methodologies do you plan to use in your project?** 
 
@@ -29,7 +29,7 @@ Dataset description: https://arxiv.org/pdf/2103.10213.pdf
 6) LayoutLMv2: Multi-modal Pre-training for Visually-rich Document Understanding [https://arxiv.org/pdf/2012.14740v4.pdf]
 
 
-**Please indicate whether your project proposal is ready for review (Yes/No):** No.
+**Please indicate whether your project proposal is ready for review (Yes/No):** Yes. 
 
 ## Feedback
 
