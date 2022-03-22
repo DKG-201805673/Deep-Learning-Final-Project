@@ -13,6 +13,7 @@ Our documents digitisation proposes a way that reduces storage costs, easing the
 **3. What deep learning methodologies do you plan to use in your project?** 
 
 The project consists of implementing an algorithm to localise scanned receipt texts. We aim to accurately recognize the text in a receipt image by getting coordinates and outputting the numbers and texts being extracted. The output will be then saved as a JSON file for each receipt image.
+
 **4. What dataset will you use? Provide information about the dataset, and a url for the dataset if available. Briefly discuss suitability of the dataset for your problem.** 
 
 Dataset: https://drive.google.com/drive/folders/1ShItNWXyiY1tFDM5W02bceHuJjyeeJl2
