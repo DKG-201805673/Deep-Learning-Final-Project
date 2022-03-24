@@ -34,4 +34,4 @@ Dataset description: https://arxiv.org/pdf/2103.10213.pdf
 
 ## Feedback
 
-This section will be completed by the course teacher.
+**[MV, 24th March 2022]** Project topic approved. The problem is well defined and interesting. The methodology is defined in general terms, not specifying which neural network models you plan to study. I trust that you will identify, well explain, and study a class of neural network models. The dataset is identified, as well as a set of references. Some of the references suggest using pre-trained models. I guess you plan to implement, train and evaluate your models on the given data. 
